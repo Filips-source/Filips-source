@@ -231,5 +231,11 @@ filipe@senai:~$ echo "Em constante atualização..._"
 <img src="https://komarev.com/ghpvc/?username=Filips-source&style=for-the-badge&color=ff0000&labelColor=000000" alt="profile views"/>
 
 **"Código é a linguagem que transforma ideias em realidade."**
+<!-- Dark Mode Support -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Filips-source/Filips-source/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Filips-source/Filips-source/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Filips-source/Filips-source/output/github-contribution-grid-snake.svg" />
+</picture>
 
 </div>
